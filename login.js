@@ -1,0 +1,10 @@
+h1
+{
+color:"red";
+font-size:12px
+}
+input
+{
+backgroundColor:"green";
+color:"blue";
+}
